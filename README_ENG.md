@@ -2,7 +2,7 @@
 
 ## Description
 
-This project performs data consistency monitoring for the Data360 system. It extracts data from the database, generates reports, and sends them via email.
+This project performs data consistency monitoring for the system. It extracts data from the database, generates reports, and sends them via email.
 
 ## Requirements
 
